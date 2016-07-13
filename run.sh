@@ -1,0 +1,1 @@
+adb shell pm clear com.riverisland.android && mvn clean test && killall node
